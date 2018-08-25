@@ -1,0 +1,33 @@
+body {
+  padding: 30px;
+}
+
+.content {
+  width: 990px;
+  height: 1350px;
+  background-color: #eee;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-top: 45px;
+}
+
+h3 {
+  padding: 15px 0 5px 0;
+  color: blue;
+}
+
+ul  {
+  padding-left: 165px;
+}
+
+main {
+  text-align: justified;
+  margin: 0 25px;
+}
+
+
+
+
+
